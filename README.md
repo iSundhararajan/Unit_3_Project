@@ -5,7 +5,7 @@ This project aims to analyze data breaches both in the United States and worldwi
 
 ## Table of Contents
 1. [Objectives](#objectives)
-2. [Data Sources](#datasources)
+2. [Data Sources](#data)
 3. [Analysis Approach](#analysis)
 4. [Functionalities](#functionalities)
 5. [Links](#links)
